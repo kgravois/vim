@@ -1,0 +1,9 @@
+Installation:
+
+  git clone git://github.com/nelstrom/dotvim.git _vim
+
+Create symlinks:
+
+  mklink /H _vimrc "C:\Program Files (x86)\Vim\.vim\vimrc"
+  mklink /H _gvimrc "C:\Program Files (x86)\Vim\.vim\gvimrc"
+  
